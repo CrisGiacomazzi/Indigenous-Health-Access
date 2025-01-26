@@ -6,7 +6,7 @@ _In progress_
 Figure 1. Planning the project steps
 
 
-# 1. Business Problem 
+# Business Problem 
 _Improving Indigenous Access to Healthcare: A Business Challenge_
 Indigenous communities in Canada face significant barriers to accessing primary healthcare, creating systemic challenges that not only impact individual well-being but also drive up government healthcare costs. A systematic review by Barbo et al. (2024) highlighted that Indigenous populations prioritize healthcare that is safe, accessible, and respectful. Despite these priorities, discrimination and racism within the healthcare system remain pervasive, resulting in unmet healthcare needs, poorer health outcomes, and increased reliance on costly emergency and acute care services. The “Health Care Access and Experiences among Indigenous People” report (2024), which surveyed 6,206 individuals, further revealed systemic gaps in accessibility, cultural safety, and equitable treatment. Addressing these issues is crucial not only to improve healthcare outcomes for Indigenous populations but also to reduce the significant financial burden on government resources caused by inefficiencies and systemic barriers.
 
@@ -14,7 +14,19 @@ Indigenous communities in Canada face significant barriers to accessing primary 
 
 <img width="664" alt="Screen Shot 2025-01-26 at 3 36 12 PM" src="https://github.com/user-attachments/assets/9ed137ff-2785-4518-a729-3bbf77316e60" />
 
-Figure 2. Percentage of Indigenous people who consider the cultural and communication problem a reason for not receiving health services. Image made by the author using Tableau (2024). 
+Figure 2. Percentage of Indigenous people who consider the cultural and communication problem a reason for not receiving health services. Image made by the author using Tableau (2024).
+
+# Hypothesis
+
+
+
+# Project Plan
+To ensure the feasibility of the project, a pilot program will be developed.
+* Program Duration: The project is designed as a one-year initiative to ensure a thorough and measurable impact within the target communities.
+* Sample: A carefully selected sample size will be utilized to ensure the validity and reliability of the findings and outcomes.
+* Priority Area: The primary focus of the project will be on enhancing health literacy within Indigenous communities, addressing a critical barrier to healthcare access.
+* Hypothesis Testing: The project will involve testing specific hypotheses to evaluate the effectiveness of proposed interventions and strategies.
+
 
 # Definitions
 _Indigenous Health Centers: Financial and Systemic Challenges_
