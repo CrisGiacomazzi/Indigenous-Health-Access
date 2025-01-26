@@ -62,7 +62,8 @@ _Health Literacy_
 * In accordance with Lambert et al. (2014), **health professionals often demonstrate a limited understanding of health literacy and its implications for Indigenous patients**.
 * This lack of comprehension, coupled with perceived barriers to enhancing health literacy, **significantly impedes the ability of healthcare providers to effectively support the development of health literacy skills among Indigenous patients**. Consequently, this gap in understanding may restrict patients' ability to fully grasp the nature of their illnesses and the necessary steps to manage their health conditions, further exacerbating the challenges in healthcare access and outcomes for Indigenous communities.
 * Addressing this issue is crucial to improving health literacy and ultimately **enhancing the quality of care provided to Indigenous populations**.
-* Indigenous populations generally exhibit **lower literacy levels**, with approximately 60% of adults and 88% of older adults lacking adequate health literacy (Chiarelli and Edwards, 2006). 
+* According to Speros (2005), **health literacy is a more significant predictor of health status** than socioeconomic status, age, or ethnic background.
+* Indigenous populations generally exhibit **lower literacy levels**, with approximately 60% of adults and 88% of older adults lacking adequate health literacy (Chiarelli and Edwards, 2006).
 
 # References
 
