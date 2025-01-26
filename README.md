@@ -45,7 +45,7 @@ _Health Literacy_
 * In accordance with Lambert et al. (2014), **health professionals often demonstrate a limited understanding of health literacy and its implications for Indigenous patients**.
 * This lack of comprehension, coupled with perceived barriers to enhancing health literacy, **significantly impedes the ability of healthcare providers to effectively support the development of health literacy skills among Indigenous patients**. Consequently, this gap in understanding may restrict patients' ability to fully grasp the nature of their illnesses and the necessary steps to manage their health conditions, further exacerbating the challenges in healthcare access and outcomes for Indigenous communities.
 * Addressing this issue is crucial to improving health literacy and ultimately **enhancing the quality of care provided to Indigenous populations**.
-* Indigenous populations generally exhibit **lower literacy levels**, with approximately 60% of adults and 88% of older adults lacking adequate health literacy (Chiarelli and Edwards, 2006; Public Health Agency of Canada, 2014). 
+* Indigenous populations generally exhibit **lower literacy levels**, with approximately 60% of adults and 88% of older adults lacking adequate health literacy (Chiarelli and Edwards, 2006). 
 
 # References
 
@@ -65,7 +65,7 @@ Indigenous Services Canada. (n.d.)._Indigenous peoples and communities: Health a
 
 Lambert, M., Luke, J., Downey, B., Crengle, S., Kelaher, M., Reid, S., & Smylie, J. (2014). Health literacy: health professionals' understandings and their perceptions of barriers that Indigenous patients encounter. _BMC health services research_, 14, 614. https://doi.org/10.1186/s12913-014-0614-1
 
-Public Health Agency of Canada. (2014). _About health literacy_. Retrieved May 11, 2015, from http://www.phac-aspc.gc.ca/cd-mc/hl-ls/index-eng.php#tabs-2 
+Rheault, H., Coyer, F., Jones, L., & Bonner, A. (2019). Health literacy in Indigenous people with chronic disease living in remote Australia. BMC health services research, 19(1), 523. https://doi.org/10.1186/s12913-019-4335-3 
 
 Statistics Canada. (2024, November 4). _Health care access and experiences among Indigenous people, 2024_. Statistics Canada. Retrieved from https://www150.statcan.gc.ca/n1/daily-quotidien/241104/dq241104a-eng.htm
 
