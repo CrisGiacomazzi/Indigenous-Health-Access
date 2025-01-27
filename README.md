@@ -62,6 +62,7 @@ _Emergency room visits in Canada_
 * The cost can vary significantly. Kingston Health Sciences Centre (2024) suggest an average cost of **$386** per visit for **general population**, others sources indicate that it could be much higher, potentially reaching over $1,000 depending on the services required.
 * Studies show that Indigenous people, particularly those in urban areas, have higher rates of ER visits compared to the general population. This increased utilization naturally leads to higher overall costs for the healthcare system.
 * Marchand et al (2024) show that Indigenous people, particularly those in urban areas, **have higher rates of ER visits compared to the general population**. This increased utilization naturally leads to higher overall costs for the healthcare system.
+* In **remote Indigenous communities** comes with significant **logistical challenges and costs**, including transportation of patients and healthcare professionals, and maintaining healthcare facilities in remote areas (Reading & Wien, 2009).
 
 _Health Literacy_
 * In accordance with Lambert et al. (2014), **health professionals often demonstrate a limited understanding of health literacy and its implications for Indigenous patients**.
@@ -91,6 +92,8 @@ Lambert, M., Luke, J., Downey, B., Crengle, S., Kelaher, M., Reid, S., & Smylie,
 Marchand, T., Squires, K., Daodu, O., & Brindle, M. E. (2024). Improving Indigenous health equity within the emergency department: a global review of interventions. CJEM, 26(7), 488–498. https://doi.org/10.1007/s43678-024-00687-3
 
 Kingston Health Sciences Centre. (April 1, 2024). _Without Health Insurance Fees_. Retrieved from https://www.qch.on.ca/WithoutHealthInsuranceFees
+
+Reading C.L., Wien F. Health Inequalities and Social Determinants of Aboriginal Peoples’ Health. National Collaborating Centre for Aboriginal Health; Prince George, BC, Canada: 2009
 
 Rheault, H., Coyer, F., Jones, L., & Bonner, A. (2019). Health literacy in Indigenous people with chronic disease living in remote Australia. BMC health services research, 19(1), 523. https://doi.org/10.1186/s12913-019-4335-3 
 
