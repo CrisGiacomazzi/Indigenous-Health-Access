@@ -58,6 +58,11 @@ _Indigenous Caregivers_
 * Indigenous caregivers encounter **unique challenges** resulting from historical and systemic issues **that impact their ability to access healthcare and caregiving support**.
 * Efforts should **focus on integrating culturally relevant caregiving models that respect Indigenous healing practices** and align with the Truth and Reconciliation Commission (TRC) recommendations for improving healthcare for Indigenous peoples (Canadian Caregiving Network, n.d.-b).
 
+_Emergency room visits in Canada_
+* The cost can vary significantly. Kingston Health Sciences Centre (2024) suggest an average cost of **$386** per visit for **general population**, others sources indicate that it could be much higher, potentially reaching over $1,000 depending on the services required.
+* Studies show that Indigenous people, particularly those in urban areas, have higher rates of ER visits compared to the general population. This increased utilization naturally leads to higher overall costs for the healthcare system.
+* Marchand et al (2024) show that Indigenous people, particularly those in urban areas, **have higher rates of ER visits compared to the general population**. This increased utilization naturally leads to higher overall costs for the healthcare system.
+
 _Health Literacy_
 * In accordance with Lambert et al. (2014), **health professionals often demonstrate a limited understanding of health literacy and its implications for Indigenous patients**.
 * This lack of comprehension, coupled with perceived barriers to enhancing health literacy, **significantly impedes the ability of healthcare providers to effectively support the development of health literacy skills among Indigenous patients**. Consequently, this gap in understanding may restrict patients' ability to fully grasp the nature of their illnesses and the necessary steps to manage their health conditions, further exacerbating the challenges in healthcare access and outcomes for Indigenous communities.
@@ -82,6 +87,10 @@ Indigenous Services Canada. (2024, December 19). *Health services and programs f
 Indigenous Services Canada. (n.d.)._Indigenous peoples and communities: Health and wellness_. Government of Canada. Retrieved January 26, 2025, from https://www.rcaanc-cirnac.gc.ca/eng/1450124405592/1529106060525
 
 Lambert, M., Luke, J., Downey, B., Crengle, S., Kelaher, M., Reid, S., & Smylie, J. (2014). Health literacy: health professionals' understandings and their perceptions of barriers that Indigenous patients encounter. _BMC health services research_, 14, 614. https://doi.org/10.1186/s12913-014-0614-1
+
+Marchand, T., Squires, K., Daodu, O., & Brindle, M. E. (2024). Improving Indigenous health equity within the emergency department: a global review of interventions. CJEM, 26(7), 488–498. https://doi.org/10.1007/s43678-024-00687-3
+
+Kingston Health Sciences Centre. (April 1, 2024). _Without Health Insurance Fees_. Retrieved from https://www.qch.on.ca/WithoutHealthInsuranceFees
 
 Rheault, H., Coyer, F., Jones, L., & Bonner, A. (2019). Health literacy in Indigenous people with chronic disease living in remote Australia. BMC health services research, 19(1), 523. https://doi.org/10.1186/s12913-019-4335-3 
 
