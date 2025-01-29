@@ -71,6 +71,31 @@ _Health Literacy_
 * According to Speros (2005), **health literacy is a more significant predictor of health status** than socioeconomic status, age, or ethnic background.
 * Indigenous populations generally exhibit **lower literacy levels**, with approximately 60% of adults and 88% of older adults lacking adequate health literacy (Chiarelli and Edwards, 2006).
 
+# Dataset creation - Methodology
+* Due to the lack of publicly available real-world data on Indigenous healthcare access, three datasets (CSV, XLS, and JSON) were created using Python and AI-powered tools, including DeepSeek. The data was generated based on extensive research, incorporating estimates from government reports, news articles, and scientific publications.
+* Key variables, such as population proportions, healthcare costs, and Health Literacy Questionnaire (HLQ) evaluations, were informed by averages from publicly available health statistics.
+* While synthetic data cannot fully capture real-world complexities, this portfolio project aims to simulate real-world challenges, analyze potential solutions, and model various healthcare scenarios to support Indigenous caregivers effectively.
+
+## Dataset 1
+
+Created a dataset in CSV format containing 260 observations and 4 columns, using the following rules:
+
+<img width="675" alt="Screen Shot 2025-01-29 at 9 38 10 AM" src="https://github.com/user-attachments/assets/ed8130b7-de2b-4296-bbef-1bbf5e1e2061" />
+
+
+## Dataset 2
+
+Created a dataset in XLS format containing 260 observations and 7 columns, using the following rules:
+
+<img width="516" alt="Screen Shot 2025-01-29 at 10 01 37 AM" src="https://github.com/user-attachments/assets/8a19a131-edd1-4b6d-bc8c-f70937b585fd" />
+
+Footnote: the data here was based on Statistics Canada (2024).
+
+## Dataset 3
+
+
+
+
 # References
 
 Barbo, G., & Alam, S. (2024). Evidence synthesis – Indigenous people’s experiences of primary health care in Canada: A qualitative systematic review. *HPCDP Journal.* https://doi.org/10.24095/hpcdp.44.4.01
@@ -87,6 +112,8 @@ Indigenous Services Canada. (2024, December 19). *Health services and programs f
 
 Indigenous Services Canada. (n.d.)._Indigenous peoples and communities: Health and wellness_. Government of Canada. Retrieved January 26, 2025, from https://www.rcaanc-cirnac.gc.ca/eng/1450124405592/1529106060525
 
+Indigenous Services Canada. (June 13, 2024). _Indigenous health care in Canada_. Government of Canada. Retrieved January 29, 2025, from https://www.rcaanc-cirnac.gc.ca/eng/1100100013785/1529102490303
+
 Lambert, M., Luke, J., Downey, B., Crengle, S., Kelaher, M., Reid, S., & Smylie, J. (2014). Health literacy: health professionals' understandings and their perceptions of barriers that Indigenous patients encounter. _BMC health services research_, 14, 614. https://doi.org/10.1186/s12913-014-0614-1
 
 Marchand, T., Squires, K., Daodu, O., & Brindle, M. E. (2024). Improving Indigenous health equity within the emergency department: a global review of interventions. CJEM, 26(7), 488–498. https://doi.org/10.1007/s43678-024-00687-3
@@ -102,6 +129,8 @@ Statistics Canada. (2024, November 4). _Health care access and experiences among
 The Globe and Mail. (2024, November 4). *Ottawa funding First Nations hospital in northern Ontario*. The Globe and Mail. Retrieved from https://www.theglobeandmail.com/politics/article-ottawa-funding-first-nations-hospital-northern-ontario/
 
 Toronto Central Healthline. (n.d.). _Community-led health programs and services for First Nations, Inuit, and Métis_. Retrieved January 26, 2025, from https://www.torontocentralhealthline.ca/listServices.aspx?id=10071#:~:text=health%20care%20organizations.-,Community%2Dled%20health%20programs%20and%20services%20for%20First%20Nations%2C%20Inuit,led%2C%20primary%20health%20care%20organizations
+
+Webkamigad, S., Warry, W., Blind, M., & Jacklin, K. (2020). An Approach to Improve Dementia Health Literacy in Indigenous Communities._Journal of cross-cultural gerontology_, 35(1), 69–83. https://doi.org/10.1007/s10823-019-09388-2 
  
 
 
