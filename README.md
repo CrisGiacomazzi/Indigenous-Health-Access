@@ -18,10 +18,12 @@ Figure 2. Percentage of Indigenous people who consider the cultural and communic
 
 # Hypothesis
 
+Given the prioritization of this project, the main research question is: Can improving the Health Literacy (HQL) score for caregivers and community authorities reduce episodes of racism in emergency rooms, enhance the utilization of cultural and traditional healthcare practices, and decrease government costs within a pilot program?
+
 | Area target                | H0            | H1            |
 | -------------              | ------------- | -------------
 | Racism and discrimination  | Increasing health literacy scores for caregivers and community authorities does not decrease the racism and discrimination complaints in the healthcare system  | Increasing health literacy scores for caregivers and community authorities decreases racism and discrimination complaints in the healthcare system |
-| Lack of availableculturally appropriate healthcare services  |Increasing health literacy scores for caregivers and community authorities does not decrease the lack of available culturally appropriate healthcare services|Increasing health literacy scores for caregivers and community authorities decreases the lack of available culturally appropriate healthcare services|
+| Lack of available culturally appropriate healthcare services  |Increasing health literacy scores for caregivers and community authorities does not decrease the lack of available culturally appropriate healthcare services|Increasing health literacy scores for caregivers and community authorities decreases the lack of available culturally appropriate healthcare services|
 | Lack of use own traditional healing methods ceremonies or medicines |Increasing health literacy scores for caregivers and community authorities does not increase the use own traditional healing methods ceremonies or medicines| Increasing health literacy scores for caregivers and community authorities increases the use own traditional healing methods ceremonies or medicines|
 | Government costs |Increasing health literacy scores for caregivers and community authorities does not decrease government costs|Increasing health literacy scores for caregivers and community authorities decreases government costs| 
 
