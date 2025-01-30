@@ -93,7 +93,7 @@ Created a dataset in CSV format containing 260 observations and 4 columns, using
 
 Created a dataset in XLS format containing 260 observations and 7 columns, using the following rules:
 
-<img width="516" alt="Screen Shot 2025-01-29 at 10 01 37 AM" src="https://github.com/user-attachments/assets/8a19a131-edd1-4b6d-bc8c-f70937b585fd" />
+<img width="338" alt="Screen Shot 2025-01-30 at 1 32 33 PM" src="https://github.com/user-attachments/assets/2457f86f-5432-44a0-9e43-936a20641bfa" />
 
 Footnote: the data here was based on Statistics Canada (2024).
 
