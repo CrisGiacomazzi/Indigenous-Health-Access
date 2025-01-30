@@ -93,6 +93,7 @@ Footnote: the data here was based on Statistics Canada (2024).
 
 ## Dataset 3
 
+<img width="669" alt="Screen Shot 2025-01-30 at 9 04 50 AM" src="https://github.com/user-attachments/assets/a89c4069-4af6-4f41-a506-30880181d429" />
 
 
 
