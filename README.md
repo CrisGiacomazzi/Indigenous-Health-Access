@@ -104,6 +104,8 @@ Canadian Caregiving Coalition. (n.d.-a). _Home. Canadian Caregiving Coalition_. 
 
 Canadian Caregiving Network. (n.d.-b). Canadian caregiving network. Canadian Caregiving Network. Retrieved January 26, 2025, from https://canadiancaregiving.org/
 
+Canadian Institute for Health Information. (2024, August). NACRS emergency department visits and lengths of stay by province/territory, 2023–2024 (Q1 to Q4). CIHI. 
+
 Chiarelli, L., & Edwards, P. (2006). Building healthy public policy. _Canadian journal of public health = Revue canadienne de sante publique_, 97 Suppl 2, S37–S42.
 
 First Nations Health Authority. (n.d.). _Our history, our health. First Nations Health Authority_. Retrieved from https://www.fnha.ca/wellness/wellness-for-first-nations/our-history-our-health?utm_source=chatgpt.com
@@ -127,6 +129,8 @@ Rheault, H., Coyer, F., Jones, L., & Bonner, A. (2019). Health literacy in Indig
 Statistics Canada. (2024, November 4). _Health care access and experiences among Indigenous people, 2024_. Statistics Canada. Retrieved from https://www150.statcan.gc.ca/n1/daily-quotidien/241104/dq241104a-eng.htm
 
 The Globe and Mail. (2024, November 4). *Ottawa funding First Nations hospital in northern Ontario*. The Globe and Mail. Retrieved from https://www.theglobeandmail.com/politics/article-ottawa-funding-first-nations-hospital-northern-ontario/
+
+Unity Health Toronto. (2023, May). Emergency visits among Indigenous adults in Toronto. Unity Health Toronto. https://unityhealth.to/2023/05/emergency-visits-indigenous-adults/#:~:text=This%20represents%20157%2C000%20ED%20visits,population%20in%20Toronto%20per%20year 
 
 Toronto Central Healthline. (n.d.). _Community-led health programs and services for First Nations, Inuit, and Métis_. Retrieved January 26, 2025, from https://www.torontocentralhealthline.ca/listServices.aspx?id=10071#:~:text=health%20care%20organizations.-,Community%2Dled%20health%20programs%20and%20services%20for%20First%20Nations%2C%20Inuit,led%2C%20primary%20health%20care%20organizations
 
