@@ -18,7 +18,11 @@ Figure 2. Percentage of Indigenous people who consider the cultural and communic
 
 # Hypothesis
 
-Given the prioritization of this project, the main research question is: Can improving the Health Literacy (HQL) score for caregivers and community authorities reduce episodes of racism in emergency rooms, enhance the utilization of cultural and traditional healthcare practices, and decrease government costs within a pilot program?
+Given the prioritization of this project, the main research question is: 
+_Can improving the Health Literacy (HQL) score for caregivers and community authorities **reduce** episodes of racism in emergency rooms, **enhance** the utilization of cultural and traditional healthcare practices, and **decrease** government costs within a pilot program?_
+
+Table 1. Structured and organized data queries to facilitate accurate and efficient calculations.
+
 
 | Area target                | H0            | H1            |
 | -------------              | ------------- | -------------
