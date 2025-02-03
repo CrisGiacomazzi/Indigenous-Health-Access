@@ -31,13 +31,22 @@ Table 1. Structured and organized data queries to facilitate accurate and effici
 | Lack of use own traditional healing methods ceremonies or medicines |Increasing health literacy scores for caregivers and community authorities does not increase the use own traditional healing methods ceremonies or medicines| Increasing health literacy scores for caregivers and community authorities increases the use own traditional healing methods ceremonies or medicines|
 | Government costs |Increasing health literacy scores for caregivers and community authorities does not decrease government costs|Increasing health literacy scores for caregivers and community authorities decreases government costs| 
 
+# Results
+
+* There was increase in 10% in HQL score after the program
+* The number of visits and costs in ER decrease
+* Complains about racism crecreased decreased
+* The use of cultural and traditional methods increased
+* The health literacy is slightly higher for the group who does not identify racism after the pilot program.
+* Number of visits before and after the pilot program are negatively and strongly related with racism
+* Costs are inversely related with racism in this simulation
+
 # Project Plan
 To ensure the feasibility of the project, a pilot program will be developed.
 * Program Duration: The project is designed as a one-year initiative to ensure a thorough and measurable impact within the target communities.
 * Sample: A carefully selected sample size will be utilized to ensure the validity and reliability of the findings and outcomes.
 * Priority Area: The primary focus of the project will be on enhancing health literacy within Indigenous communities, addressing a critical barrier to healthcare access.
 * Hypothesis Testing: The project will involve testing specific hypotheses to evaluate the effectiveness of proposed interventions and strategies.
-
 
 # Definitions
 _Indigenous Health Centers: Financial and Systemic Challenges_
