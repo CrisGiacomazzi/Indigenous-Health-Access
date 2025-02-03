@@ -33,13 +33,11 @@ Table 1. Structured and organized data queries to facilitate accurate and effici
 
 # Results
 
-* There was increase in 10% in HQL score after the program
-* The number of visits and costs in ER decrease
-* Complains about racism crecreased decreased
-* The use of cultural and traditional methods increased
-* The health literacy is slightly higher for the group who does not identify racism after the pilot program.
-* Number of visits before and after the pilot program are negatively and strongly related with racism
-* Costs are inversely related with racism in this simulation
+* There was increase in 10% in HQL score after the program in general
+* The number of visits and costs in ER decrease in general (15%)
+* Complains about racism decreased in general (10%)
+* The use of cultural and traditional methods increased (10% both)
+* Costs are inversely related with racism in this simulation - *Episodes of racism are linked to high-cost care and this pattern that existed even before the pilot program.*
 
 # Project Plan
 To ensure the feasibility of the project, a pilot program will be developed.
