@@ -31,7 +31,13 @@ Table 1. Structured and organized data queries to facilitate accurate and effici
 | Lack of use own traditional healing methods ceremonies or medicines |Increasing health literacy scores for caregivers and community authorities does not increase the use own traditional healing methods ceremonies or medicines| Increasing health literacy scores for caregivers and community authorities increases the use own traditional healing methods ceremonies or medicines|
 | Government costs |Increasing health literacy scores for caregivers and community authorities does not decrease government costs|Increasing health literacy scores for caregivers and community authorities decreases government costs| 
 
-# Results
+# Statistical tests
+Before and after the Pilot Program
+* HQL (Wilcoxon Test)
+* Racism, culture, and tradition (McNemar Test)
+* Number visits ER, Costs (Wicoxon Test)
+
+# Results (notes)
 
 * There was increase in 10% in HQL score after the program in general
 * The number of visits and costs in ER decrease in general (15%)
