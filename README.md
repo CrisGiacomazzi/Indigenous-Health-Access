@@ -35,7 +35,7 @@ Table 1. Structured and organized data queries to facilitate accurate and effici
 Before and after the Pilot Program
 * HQL (Wilcoxon Test)
 * Racism, culture, and tradition (McNemar Test)
-* Number visits ER, Costs (Wicoxon Test)
+* Number visits ER, Costs (Wilcoxon Test)
 
 # Results (notes)
 
