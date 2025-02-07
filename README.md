@@ -39,12 +39,12 @@ Before and after the Pilot Program
 
 # Results (notes)
 
-* There was significantly increase in HQL score after the program in general (10%, p-value: 3.0435e-48 or <0.05)
-* The number of visits and costs in ER decrease significantly in general (15%, p-value: 3.5530e-33 or <0.05)
-* Costs had significantly decrease after pilot Program (p-value: 2.1346e-44 or <0.05)
-* Racism had a significant decrease after the pilot program (10%, p-value: 0.00)
-* Culture had a significant decrease after the pilot program(10%, p-value: 0.00)
-* Tradition had a significant decrease after the pilot program (p-value: 0.01)
+* There was significantly increase in HQL score after the program in general (10%, _p-value_: 3.0435e-48 or <0.05)
+* The number of visits and costs in ER decrease significantly in general (15%, _p-value_: 3.5530e-33 or <0.05)
+* Costs had significantly decrease after pilot Program (_p-value_: 2.1346e-44 or <0.05)
+* Racism had a significant decrease after the pilot program (10%, _p-value_: 0.00)
+* Culture had a significant decrease after the pilot program(10%, _p-value_: 0.00)
+* Tradition had a significant decrease after the pilot program (_p-value_: 0.01)
 * Costs are inversely related with racism in this simulation - *Episodes of racism are linked to high-cost care and this pattern that existed even before the pilot program.*
 
 # Project Plan
