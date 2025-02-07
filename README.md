@@ -36,6 +36,7 @@ Before and after the Pilot Program
 * HQL (Wilcoxon Test)
 * Racism, culture, and tradition (McNemar Test)
 * Number visits ER, Costs (Wilcoxon Test)
+* HQL and racism, culture, and tradition correlations (Spearman Test)
 
 # Results (notes)
 
@@ -46,6 +47,7 @@ Before and after the Pilot Program
 * Culture had a significant decrease after the pilot program(10%, _p-value_: 0.00)
 * Tradition had a significant decrease after the pilot program (_p-value_: 0.01)
 * Costs are inversely related with racism in this simulation - *Episodes of racism are linked to high-cost care and this pattern that existed even before the pilot program.*
+* There is no correlation among variables before or after the pilot program (HQL,racism, culture, and tradition correlations) (_p-value_: 0.53, 0.97, 0.55 respectively)
 
 # Project Plan
 To ensure the feasibility of the project, a pilot program will be developed.
