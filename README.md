@@ -53,11 +53,11 @@ Before and after the Pilot Program
 * Python integrated with Looker Studio
 
 # Project Plan
-To ensure the feasibility of the project, a pilot program will be developed.
-* Program Duration: The project is designed as a one-year initiative to ensure a thorough and measurable impact within the target communities.
+To ensure the feasibility of the project, a pilot program was be developed (fictional scenario).
+* Program Duration: The project was designed as a one-year initiative to ensure a thorough and measurable impact within the target communities.
 * Sample: A carefully selected sample size will be utilized to ensure the validity and reliability of the findings and outcomes.
-* Priority Area: The primary focus of the project will be on enhancing health literacy within Indigenous communities, addressing a critical barrier to healthcare access.
-* Hypothesis Testing: The project will involve testing specific hypotheses to evaluate the effectiveness of proposed interventions and strategies.
+* Priority Area: The primary focus of the project was on enhancing health literacy within Indigenous communities, addressing a critical barrier to healthcare access.
+* Hypothesis Testing: The project involvde testing specific hypotheses to evaluate the effectiveness of proposed interventions and strategies.
 
 # Definitions
 _Indigenous Health Centers: Financial and Systemic Challenges_
