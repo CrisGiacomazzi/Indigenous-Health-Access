@@ -49,6 +49,9 @@ Before and after the Pilot Program
 * Costs are inversely related with racism in this simulation - *Complaints of racism are linked to high-cost care and this pattern that existed even before the pilot program.*
 * There is no correlation among variables before or after the pilot program (HQL,racism, culture, and tradition correlations) (_p-value_: 0.53, 0.97, 0.55 respectively)
 
+# Data Vizualization
+* Python integrated with Looker Studio
+
 # Project Plan
 To ensure the feasibility of the project, a pilot program will be developed.
 * Program Duration: The project is designed as a one-year initiative to ensure a thorough and measurable impact within the target communities.
