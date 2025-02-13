@@ -26,9 +26,9 @@ Table 1. Structured and organized data queries to facilitate accurate and effici
 
 | Area target                | H0            | H1            |
 | -------------              | ------------- | -------------
-| Racism and discrimination  | Increasing health literacy scores for caregivers and community authorities does not decrease the racism and discrimination complaints in the healthcare system  | Increasing health literacy scores for caregivers and community authorities decreases racism and discrimination complaints in the healthcare system |
-| Lack of available culturally appropriate healthcare services  |Increasing health literacy scores for caregivers and community authorities does not decrease the lack of available culturally appropriate healthcare services|Increasing health literacy scores for caregivers and community authorities decreases the lack of available culturally appropriate healthcare services|
-| Lack of use own traditional healing methods ceremonies or medicines |Increasing health literacy scores for caregivers and community authorities does not increase the use own traditional healing methods ceremonies or medicines| Increasing health literacy scores for caregivers and community authorities increases the use own traditional healing methods ceremonies or medicines|
+| Racism and discrimination  | A pilot program for caregivers and community authorities does not decrease the racism and discrimination complaints in the healthcare system  | A pilot program for caregivers and community authorities decreases racism and discrimination complaints in the healthcare system |
+| Lack of available culturally appropriate healthcare services  |A pilot program for caregivers and community authorities does not decrease the lack of available culturally appropriate healthcare services|Increasing health literacy scores for caregivers and community authorities decreases the lack of available culturally appropriate healthcare services|
+| Lack of use own traditional healing methods ceremonies or medicines |A pilot program for caregivers and community authorities does not increase the use own traditional healing methods ceremonies or medicines| A pilot program for caregivers and community authorities increases the use own traditional healing methods ceremonies or medicines|
 | Government costs |Increasing health literacy scores for caregivers and community authorities does not decrease government costs|Increasing health literacy scores for caregivers and community authorities decreases government costs| 
 
 # Statistical tests
