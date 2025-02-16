@@ -51,6 +51,7 @@ Before and after the Pilot Program
 
 # Data Vizualization
 * Python integrated with Looker Studio
+* Click here to see [Link to the dashboard](https://lookerstudio.google.com/reporting/82acf37e-9f7d-4671-abc6-36cb92855e3f)
 
 # Project Plan
 To ensure the feasibility of the project, a pilot program was be developed (fictional scenario).
