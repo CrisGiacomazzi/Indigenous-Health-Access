@@ -7,7 +7,10 @@ Figure 1. Planning the project steps
 
 # Business Problem 
 _Improving Indigenous Access to Healthcare: A Business Challenge_
-Indigenous communities in Canada face significant barriers to accessing primary healthcare, creating systemic challenges that not only impact individual well-being but also drive up government healthcare costs. A systematic review by Barbo et al. (2024) highlighted that Indigenous populations prioritize healthcare that is safe, accessible, and respectful. Despite these priorities, discrimination and racism within the healthcare system remain pervasive, resulting in unmet healthcare needs, poorer health outcomes, and increased reliance on costly emergency and acute care services. The “Health Care Access and Experiences among Indigenous People” report (2024), which surveyed 6,206 individuals, further revealed systemic gaps in accessibility, cultural safety, and equitable treatment. Addressing these issues is crucial not only to improve healthcare outcomes for Indigenous populations but also to reduce the significant financial burden on government resources caused by inefficiencies and systemic barriers.
+* Indigenous communities in Canada face significant barriers to accessing primary healthcare, creating systemic challenges that not only impact individual well-being but also drive up government healthcare costs.
+* A systematic review by Barbo et al.(2024) highlighted that Indigenous populations prioritize healthcare that is safe, accessible, and respectful. Despite these priorities, discrimination and racism within the healthcare system remain pervasive, resulting in unmet healthcare needs, poorer health outcomes, and increased reliance on costly emergency and acute care services.
+* The “Health Care Access and Experiences among Indigenous People” report (2024), which surveyed 6,206 individuals, further revealed systemic gaps in accessibility, cultural safety, and equitable treatment.
+* Addressing these issues is crucial not only to improve healthcare outcomes for Indigenous populations but also to reduce the significant financial burden on government resources caused by inefficiencies and systemic barriers.
 
 # Indigenous reason for not receive health care service (%)
 
@@ -17,8 +20,8 @@ Figure 2. Percentage of Indigenous people who consider the cultural and communic
 
 # Hypothesis
 
-Given the prioritization of this project, the main research question is: 
-_Can improving the Health Literacy (HQL) score for caregivers and community authorities **reduce** episodes of racism in emergency rooms, **enhance** the utilization of cultural and traditional healthcare practices, and **decrease** government costs within a pilot program?_
+Given the prioritization chosed for this project, the main research question is: 
+_Can **improving** the Health Literacy (HQL) score for caregivers and community authorities **reduce** episodes of racism in emergency rooms, **enhance** the utilization of cultural and traditional healthcare practices, and **decrease** government costs within a pilot program?_
 
 Table 1. Structured and organized data queries to facilitate accurate and efficient calculations.
 
@@ -41,7 +44,7 @@ Before and after the Pilot Program
 
 * There was significantly increase in HQL score after the program in general (10%, _p-value_: 3.0435e-48 or <0.05)
 * The number of visits and costs in ER decrease significantly in general (15%, _p-value_: 3.5530e-33 or <0.05)
-* Costs had significantly decrease after pilot Program (_p-value_: 2.1346e-44 or <0.05)
+* Costs had significantly decrease after pilot Program (20%, _p-value_: 2.1346e-44 or <0.05)
 * Racism had a significant decrease after the pilot program (10%, _p-value_: 0.00)
 * Culture had a significant decrease after the pilot program(10%, _p-value_: 0.00)
 * Tradition had a significant decrease after the pilot program (_p-value_: 0.01)
