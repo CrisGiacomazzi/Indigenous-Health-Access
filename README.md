@@ -126,6 +126,16 @@ Created a dataset in JSON format containing 260 observations and 5 columns, usin
 
 <img width="669" alt="Screen Shot 2025-01-30 at 9 04 50 AM" src="https://github.com/user-attachments/assets/a89c4069-4af6-4f41-a506-30880181d429" />
 
+# Libraries used for this project
+
+| Library name  | Function |
+| ------------- | ------------- |
+| Drive  | Conect with Google drive |
+| Pandas  | Data manipulation and analysis  |
+| Matplotlib  | Plots  |
+| Seaborn  | Graphics  |
+| Statsmodel  | Dtatistical modeling and inference  |
+| Pandas  | Data manipulation and analysis |
 
 
 # References
