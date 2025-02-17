@@ -1,7 +1,6 @@
 # Indigenous-Health-Access
-_In progress_
 
-<img width="960" alt="Screen Shot 2025-01-26 at 1 34 13 PM" src="https://github.com/user-attachments/assets/a0018c57-7b9d-4b79-8421-6beb08799552" />
+<img width="966" alt="Screen Shot 2025-02-16 at 6 44 45 PM" src="https://github.com/user-attachments/assets/2614c64a-f5af-45d7-9177-dd182b3b80c1" />
 
 Figure 1. Planning the project steps
 
